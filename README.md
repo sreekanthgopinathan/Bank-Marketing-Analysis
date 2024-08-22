@@ -19,8 +19,8 @@ Objective of this study
 
 - Shape of Data Set Analysed : (41188, 21)
 
-![plot](./images/databalance.jpeg)
 
+<img src=./images/databalance.jpeg width="600" height="400">
 
 
 
@@ -36,7 +36,9 @@ Considering the imbalance in the dataset, AUC score was chosen as the performanc
 
 Furthermore, we validated if SMOTENC adjusted dataset improves the performance of the model. SVM model with balanced dataset gives the best performance based on the AUC score (0.97)
 
-![plot](./images/confusionmatrix.jpeg)     - ![plot](./images/auccurve.jpeg)     
+<img src=./images/confusionmatrix.jpeg width="500" height="500">
+<img src=./images/auccurve.jpeg width="500" height="500">
+
 
 **Conclusion**
 
